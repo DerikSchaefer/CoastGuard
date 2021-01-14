@@ -1780,7 +1780,7 @@ ol li {
 .h3-social {
 text-align: right !important;
 margin: 1em;
-background-color: #fff;
+background-color: #006ba6;
 }
 
 ul.social {
@@ -2464,4 +2464,9 @@ hr {
   background-color: #fff;
   color: #fff;
   border-color: #fff;
+}
+
+.w-100 {
+  width: 100% !important;
+  height: 65vh;
 }
