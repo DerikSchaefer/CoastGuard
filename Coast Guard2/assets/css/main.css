@@ -2467,10 +2467,6 @@ hr {
 
 
 
-.carousel-inner {
-  height: 100vh;
-}
-
 .item {
   border: 1px solid grey;
   max-height: 100vh;
@@ -2479,4 +2475,12 @@ hr {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
+}
+
+.w-100  {
+  max-width: 100% !important;
+  height: 40vh !important;
+  display: block !important;
+  margin-left: auto !important;
+margin-right: auto !important;
 }
