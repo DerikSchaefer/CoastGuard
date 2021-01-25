@@ -2478,8 +2478,8 @@ hr {
 }
 
 .w-100  {
-  max-width: 80% !important;
-  height: 60vh !important;
+  max-width: 100% !important;
+  height: 40vh !important;
   display: block !important;
   margin-left: auto !important;
 margin-right: auto !important;
