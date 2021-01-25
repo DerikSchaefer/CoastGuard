@@ -116,7 +116,7 @@ a {
 }
 
 a:hover {
-  color: #43bff0 !important;
+  color: #006ba6 !important;
 }
 
 a img {
@@ -2096,7 +2096,6 @@ ul.actions li:first-child {
 #nav a:hover {
   color: #e0e7e9;
    !important;
-  background: #354649;
 }
 
 #nav a.active {
@@ -2467,6 +2466,8 @@ hr {
 }
 
 .w-100 {
-  width: 100% !important;
-  height: 65vh;
+  width: 80% !important;
+  height: 45vh;
+  padding-left: 250px;
+
 }
